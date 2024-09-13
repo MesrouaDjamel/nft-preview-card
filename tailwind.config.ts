@@ -9,8 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
-        foreground: "var(--foreground)",
+        // Primary
+        cyan: "hsl(178, 100%, 50%)",
+        softBlue : "hsl(215, 51%, 70%)",
+
+        // Neutral
+        "very-dark-blue-main-bg": "hsl(217, 54%, 11%)",
+        "very-dark-blue-card-bg": "hsl(216, 50%, 16%)",
+        "very-dark-blue-line": "hsl(215, 32%, 27%)",
       },
     },
   },
