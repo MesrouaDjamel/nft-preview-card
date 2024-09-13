@@ -36,8 +36,8 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/MesrouaDjamel/nft-preview-card)
-- Live Site URL: [Vercel](https://e-commerce-product-details-page-mesroua-djamels-projects.vercel.app/)
-- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-e-commerce-product-page-using-flexbox-OIDklasUAG)
+- Live Site URL: [Vercel](https://nft-preview-card-mesroua-djamels-projects.vercel.app/)
+- FrontEndMentor: [FrontEndMentor](https://www.frontendmentor.io/solutions/responsive-nft-preview-card-using-flexbox-AhhIJxDJje)
 
 ## My process
 I started the project using npx create-next-app@latest we configured the project following the instructions (use typescript, use tailwindscss, use app router...).
